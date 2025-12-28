@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Abhi 👋
+BTech CSE | DSA (C++) | Web Dev (Frontend)
 
-<!--
-**abhiynar2804/abhiynar2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Skills:
+- C++, DSA
+- HTML, CSS, JavaScript, React, NextJS
+- Git, GitHub
 
-Here are some ideas to get you started:
+🔹 Current Focus:
+- DSA (LeetCode)
+- Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Projects:
+- Daily Expense Tracker (React)
+- Portfolio Website
+
+🔹 Contact:
+- LinkedIn: [<link>](https://www.linkedin.com/in/abhay-narkhede-016376282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: abhiynar2804@gmail.com
