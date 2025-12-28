@@ -15,5 +15,5 @@ BTech CSE | DSA (C++) | Web Dev (Frontend)
 - Portfolio Website
 
 🔹 Contact:
-- LinkedIn: [<link>](https://www.linkedin.com/in/abhay-narkhede-016376282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [https://www.linkedin.com/in/abhay-narkhede](https://www.linkedin.com/in/abhay-narkhede-016376282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: abhiynar2804@gmail.com
