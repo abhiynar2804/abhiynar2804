@@ -3,16 +3,20 @@ BTech CSE | DSA (C++) | Web Dev (Frontend)
 
 🔹 Skills:
 - C++, DSA
-- HTML, CSS, JavaScript, React, NextJS
+- HTML, CSS, JavaScript, React, NextJS, typeScript
 - Git, GitHub
 
 🔹 Current Focus:
 - DSA (LeetCode)
-- Building real-world projects
+- Building real-world Business Website for client
 
 🔹 Projects:
 - Daily Expense Tracker (React)
 - Portfolio Website
+  
+🔹 Achievments:
+- 120+ DSA Questions
+- 80+ Leetcode Problems
 
 🔹 Contact:
 - LinkedIn: [https://www.linkedin.com/in/abhay-narkhede](https://www.linkedin.com/in/abhay-narkhede-016376282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
